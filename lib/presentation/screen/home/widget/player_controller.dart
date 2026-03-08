@@ -91,7 +91,6 @@ class PlayerController extends StatelessWidget {
                   ],
                 ),
               ),
-
               Row(
                 mainAxisAlignment: .center,
                 children: [
