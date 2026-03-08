@@ -1,5 +1,6 @@
 # Music Player
 
+<img width="300" height="607" alt="Screenshot 2026-03-08 at 10 31 24 PM" src="https://github.com/user-attachments/assets/6496a592-9993-4b3e-bdf9-94dfc64ca725" />
 
 
 ## Features
@@ -82,4 +83,4 @@ lib/
 This is an educational project. Feel free to fork and experiment!
 
 ## License
-This project is created for educational purposes as part of Ostad Batch 11.
+This project is created for educational purposes as part of Ostad Batch 14.
